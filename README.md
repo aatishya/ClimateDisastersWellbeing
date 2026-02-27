@@ -28,9 +28,9 @@ Raw data must be downloaded separately and stored locally. They are not included
 ├── 1_processing_wvs.do
 ├── 2_processing_brfss.do
 ├── 3_reg_codes.do
-├── wvs-gadm_match.xlsx
 ├── License
-└── README.md
+├── README.md
+└──wvs-gadm_match.xlsx
 ```
 
 ### File Descriptions
