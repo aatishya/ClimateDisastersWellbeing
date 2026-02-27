@@ -30,7 +30,7 @@ Raw data must be downloaded separately and stored locally. They are not included
 ├── 3_reg_codes.do
 ├── License
 ├── README.md
-└──wvs-gadm_match.xlsx
+└── wvs-gadm_match.xlsx
 ```
 
 ### File Descriptions
