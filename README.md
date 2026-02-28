@@ -7,7 +7,7 @@ This repository contains the code required to replicate the empirical results in
 
 > *How Much Do People Care about Climate Natural Disasters?*
 
-
+[![DOI](https://zenodo.org/badge/1164655424.svg)](https://doi.org/10.5281/zenodo.18809248)
 ---
 
 ## Data
